@@ -24,4 +24,5 @@ You can see demo: [https://any.ge/onlinecamera/](https://any.ge/onlinecamera/)
 
 ## Screenshots
 ![Screen 1](https://any.ge/onlinecamera/screen1.png)
+***
 ![Screen 1](https://any.ge/onlinecamera/screen2.png)
